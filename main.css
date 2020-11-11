@@ -19,3 +19,30 @@ nav ul li{
 nav ul {
     text-align: right;
 }
+
+.RegForm {
+/* display: flex; 
+ justify-content: center; */
+ text-align: center;
+} 
+.FormSize {
+
+text-align: left;
+display: inline-block;
+}
+
+.FormLegend{
+text-align: center;
+
+}
+
+#Submitdiv {
+text-align: center;
+
+
+}
+#Submitbtn {
+    text-align: center;
+    width:60%;
+    background-color: blue;
+}
